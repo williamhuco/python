@@ -1,2 +1,2 @@
 # python
-Some python fun code
+This repository includes some Python code for learning.
